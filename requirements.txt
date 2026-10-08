@@ -1,0 +1,9 @@
+# Tested with Python 3.13 and the exact versions in the comments.
+numpy>=1.26        # tested 2.5.3
+scipy>=1.11        # tested 1.18.1
+matplotlib>=3.9    # tested 3.11.2 (boxplot tick_labels= needs >= 3.9)
+pandas>=2.0        # tested 3.0.6
+pytest>=7.0        # tested 9.1.1
+jupyter>=1.0       # tested 1.1.1
+nbconvert>=7.0     # tested 7.17.1 (used to run notebooks headlessly)
+ipykernel>=6.0     # tested 7.4.0
