@@ -1,7 +1,7 @@
 # OOP with Python: Assignment 2 (Advent 2026)
 
 **Programme:** MSCS & MSDS · **Course:** Object-Oriented Programming with Python
-**Student:** _[Full name]_ · **Registration number:** _[Reg. no.]_
+**Student:** _[Doreen Ainembabazi]_ · **Registration number:** _[Reg. no.]_
 
 This repository contains my solutions to the five mini-projects in Assignment 2. Each
 project models a Ugandan planning problem with its own set of classes. The reusable logic
@@ -197,10 +197,4 @@ in this assignment. It helped plan the work against the rubric and produced firs
 of the code, tests, notebooks and documentation, as well as the study notes in
 `docs/viva_guide.md`.
 
-My own work on the submission:
 
-* _[Describe what you actually did, for example: checking results against hand calculations,
-  rewriting the Findings & Limitations sections, changing modelling choices and re-running
-  the analysis, verifying the cited sources, working through the code to understand it.]_
-
-I have reviewed the submission and can explain the code and the reasoning behind each result.
