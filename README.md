@@ -1,6 +1,6 @@
 # OOP with Python: Assignment 1 (Advent 2026)
 
-**Programme:** MSCS & MSDS · **Course:** Object-Oriented Programming with Python
+**Programme:**MSDS · **Course:** Object-Oriented Programming with Python
 **Student:** _[Doreen Ainembabazi]_ · **Registration number:** _[S26M19/010]_
 
 This repository contains my solutions to the five mini-projects in Assignment 1. Each
