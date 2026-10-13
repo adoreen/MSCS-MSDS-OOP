@@ -1,9 +1,9 @@
-# OOP with Python: Assignment 2 (Advent 2026)
+# OOP with Python: Assignment 1 (Advent 2026)
 
 **Programme:** MSCS & MSDS · **Course:** Object-Oriented Programming with Python
-**Student:** _[Full name]_ · **Registration number:** _[Reg. no.]_
+**Student:** _[Doreen Ainembabazi]_ · **Registration number:** _[S26M19/010]_
 
-This repository contains my solutions to the five mini-projects in Assignment 2. Each
+This repository contains my solutions to the five mini-projects in Assignment 1. Each
 project models a Ugandan planning problem with its own set of classes. The reusable logic
 lives in `src/`, each project has a Jupyter notebook that walks through the tasks and
 interprets the results, and a pytest suite checks the code.
@@ -35,7 +35,7 @@ is already saved in `data/`.
 **1. Get the code**
 
 ```bash
-git clone https://github.com/bagzyea/MSCS-MSDS-OOP.git
+git clone https://github.com/adoreen/MSCS-MSDS-OOP.git
 cd MSCS-MSDS-OOP
 ```
 
