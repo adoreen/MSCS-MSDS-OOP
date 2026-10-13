@@ -1,7 +1,7 @@
-# OOP with Python: Assignment 1 (Advent 2026)
+# OOP with Python: Assignment 2 (Advent 2026)
 
 **Programme:**MSDS · **Course:** Object-Oriented Programming with Python
-**Student:** _[Doreen Ainembabazi]_ · **Registration number:** _[S26M19/010]_
+**Student:** _[Ainembabazi Doreen]_ · **Registration number:** _[S26M19/010]_
 
 This repository contains my solutions to the five mini-projects in Assignment 1. Each
 project models a Ugandan planning problem with its own set of classes. The reusable logic
